@@ -1,9 +1,9 @@
 # Simulation of Time-Series Market with Trading Agents
 
 ## Information
-Final Year Thesis for UCL BSc in Computer Science '20
-Author: Khanh Nguyen
-Supervisor: Prof. Paolo Barucca
+Final Year Thesis for UCL BSc in Computer Science '20  
+Author: Khanh Nguyen  
+Supervisor: Prof. Paolo Barucca  
 
 ## Repository Description
 * `RL_Playground` - contains the playground and Q-Learning Agent for the customed market simulation
